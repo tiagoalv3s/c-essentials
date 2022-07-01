@@ -8,18 +8,18 @@ Throughout this repository I'm sharing my journey on the C Essentials course, of
 
 ### Module 0
 Installing and using your programming environment
-- [ ] Basics
-- [ ] Module 0
-- [ ] Where to begin
-- [ ] Edube interactive
+- [x] Basics
+- [x] Module 0
+- [x] Where to begin
+- [x] Edube interactive
 
 ### Module 1
 Intro to computer programming, variables, and comments
-- [ ] Natural language vs programming language
-- [ ] Additional resources
-- [ ] Your first program
-- [ ] 💻 LAB: What's your name?
-- [ ] 💻 LAB: Just numbers: part 1
+- [x] Natural language vs programming language
+- [x] Additional resources
+- [x] Your first program
+- [x] 💻 LAB: What's your name?
+- [x] 💻 LAB: Just numbers: part 1
 - [ ] Numbers and how computer see them
 - [ ] A variable is variable
 - [ ] Keywords - why they are the key

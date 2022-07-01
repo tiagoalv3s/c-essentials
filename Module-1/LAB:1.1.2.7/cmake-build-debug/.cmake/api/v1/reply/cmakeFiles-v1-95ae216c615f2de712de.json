@@ -385,8 +385,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB-1.1.2.7/cmake-build-debug",
-		"source" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB-1.1.2.7"
+		"build" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB:1.1.2.7/cmake-build-debug",
+		"source" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB:1.1.2.7"
 	},
 	"version" : 
 	{

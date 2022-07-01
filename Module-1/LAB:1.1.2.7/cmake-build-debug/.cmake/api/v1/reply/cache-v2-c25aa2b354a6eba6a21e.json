@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB-1.1.2.7/cmake-build-debug"
+			"value" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB:1.1.2.7/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -463,7 +463,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB-1.1.2.7"
+			"value" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB:1.1.2.7"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -995,7 +995,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB-1.1.2.7/cmake-build-debug"
+			"value" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB:1.1.2.7/cmake-build-debug"
 		},
 		{
 			"name" : "LAB_1_1_2_7_IS_TOP_LEVEL",
@@ -1019,7 +1019,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB-1.1.2.7"
+			"value" : "/home/tiagoalv3s/workspace/c-essentials/Module-1/LAB:1.1.2.7"
 		}
 	],
 	"kind" : "cache",

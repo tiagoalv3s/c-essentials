@@ -6,8 +6,8 @@ Remember to include a return statement and make proper use of the main function.
 
 #include <stdio.h>
 
-int main()
+int main(void)
 {
-    printf("Tiago\nTiago\nTiago");
+    puts("Tiago\nTiago\nTiago");
     return 0;
 }
