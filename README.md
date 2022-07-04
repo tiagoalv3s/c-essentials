@@ -20,11 +20,11 @@ Intro to computer programming, variables, and comments
 - [x] Your first program
 - [x] 💻 LAB: What's your name?
 - [x] 💻 LAB: Just numbers: part 1
-- [ ] Numbers and how computer see them
-- [ ] A variable is variable
-- [ ] Keywords - why they are the key
-- [ ] Comments on the comments
-- [ ] 💻 LABs: Just numbers: part 2 - part 5
+- [x] Numbers and how computer see them
+- [x] A variable is variable
+- [x] Keywords - why they are the key
+- [x] Comments on the comments
+- [x] 💻 LABs: Just numbers: part 2 - part 5
 - [ ] 💻 LAB: Comments: are they always useful?
 - [ ] Module completion
 - [ ] 🔺Quiz
