@@ -25,10 +25,9 @@ Intro to computer programming, variables, and comments
 - [x] Keywords - why they are the key
 - [x] Comments on the comments
 - [x] 💻 LABs: Just numbers: part 2 - part 5
-- [ ] 💻 LAB: Comments: are they always useful?
-- [ ] Module completion
-- [ ] 🔺Quiz
-- [ ] 🔺Test
+- [x] Module completion
+- [x] 🔺Quiz
+- [] 🔺Test
 
 ### Module 2
 Basic data types, operations, and flow control (decision-making statements)
