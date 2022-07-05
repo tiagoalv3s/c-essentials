@@ -27,7 +27,7 @@ Intro to computer programming, variables, and comments
 - [x] 💻 LABs: Just numbers: part 2 - part 5
 - [x] Module completion
 - [x] 🔺Quiz
-- [] 🔺Test
+- [x] 🔺Test
 
 ### Module 2
 Basic data types, operations, and flow control (decision-making statements)
