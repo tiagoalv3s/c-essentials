@@ -31,7 +31,7 @@ Intro to computer programming, variables, and comments
 
 ### Module 2
 Basic data types, operations, and flow control (decision-making statements)
-- [ ] Floating-point numbers
+- [x] Floating-point numbers
 - [ ] 💻 LAB: Floating point
 - [ ] 💻 LABs: Variables continued
 - [ ] Operators
