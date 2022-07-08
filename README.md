@@ -34,7 +34,7 @@ Basic data types, operations, and flow control (decision-making statements)
 - [x] Floating-point numbers
 - [x] 💻 LAB: Floating point
 - [x] 💻 LABs: Variables continued
-- [ ] Operators
+- [x] Operators
 - [ ] 💻 LABs: Operators
 - [ ] 💻 LABs: Priorities and parenthesis 
 - [ ] 💻 LAB: Operators and shortcuts
