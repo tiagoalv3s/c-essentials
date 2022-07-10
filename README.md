@@ -38,8 +38,8 @@ Basic data types, operations, and flow control (decision-making statements)
 - [x] 💻 LABs: Operators
 - [x] 💻 LABs: Priorities and parenthesis 
 - [x] 💻 LAB: Operators and shortcuts
-- [ ] Characters as another kind of data
-- [ ] LABs: Character type and values
+- [x] Characters as another kind of data
+- [ ] 💻 LABs: Character type and values
 - [ ] Controlling the flow - absolute basics
 - [ ] 💻 LABs: Conditional and conditional executions
 - [ ] Formatted input/output
