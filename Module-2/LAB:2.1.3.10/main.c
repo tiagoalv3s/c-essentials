@@ -8,20 +8,20 @@ int main()
 	++digits;
     printf("\'%c\' - \'%c\' is: %d\n", digits, zero, digits - zero);
     ++digits;
-    printf("\'%c\' - \'%c\' is: %d\n", digits, zero, digits - zero);
+    printf("\'%c' - \'%c' is: %d\n", digits, zero, digits - zero);
     ++digits;
-    printf("\'%c\' - \'%c\' is: %d\n", digits, zero, digits - zero);
+    printf("\'%c' - \'%c' is: %d\n", digits, zero, digits - zero);
     ++digits;
-    printf("\'%c\' - \'%c\' is: %d\n", digits, zero, digits - zero);
+    printf("\'%c' - \'%c' is: %d\n", digits, zero, digits - zero);
     ++digits;
-    printf("\'%c\' - \'%c\' is: %d\n", digits, zero, digits - zero);
+    printf("\'%c' - \'%c' is: %d\n", digits, zero, digits - zero);
     ++digits;
-    printf("\'%c\' - \'%c\' is: %d\n", digits, zero, digits - zero);
+    printf("\'%c' - \'%c' is: %d\n", digits, zero, digits - zero);
     ++digits;
-    printf("\'%c\' - \'%c\' is: %d\n", digits, zero, digits - zero);
+    printf("\'%c' - \'%c' is: %d\n", digits, zero, digits - zero);
     ++digits;
-    printf("\'%c\' - \'%c\' is: %d\n", digits, zero, digits - zero);
+    printf("\'%c' - \'%c' is: %d\n", digits, zero, digits - zero);
     digits-= 9;
-    printf("\'%c\' - \'%c\' is: %d\n\n", digits, zero, digits - zero);
+    printf("\'%c' - \'%c' is: %d\n\n", digits, zero, digits - zero);
 	return 0;
 }
