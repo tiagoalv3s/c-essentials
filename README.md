@@ -43,7 +43,7 @@ Basic data types, operations, and flow control (decision-making statements)
 - [x] Controlling the flow - absolute basics
 - [x] 💻 LABs: Conditional and conditional executions
 - [x] Formatted input/output
-- [ ] 💻 LABs: Printing data
+- [x] 💻 LABs: Printing data
 - [ ] 💻 LABs: Getting data from de user
 - [ ] Module completion
 - [ ] 🔺Quiz
