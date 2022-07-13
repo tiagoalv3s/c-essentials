@@ -40,9 +40,9 @@ Basic data types, operations, and flow control (decision-making statements)
 - [x] 💻 LAB: Operators and shortcuts
 - [x] Characters as another kind of data
 - [x] 💻 LABs: Character type and values
-- [ ] Controlling the flow - absolute basics
-- [ ] 💻 LABs: Conditional and conditional executions
-- [ ] Formatted input/output
+- [x] Controlling the flow - absolute basics
+- [x] 💻 LABs: Conditional and conditional executions
+- [x] Formatted input/output
 - [ ] 💻 LABs: Printing data
 - [ ] 💻 LABs: Getting data from de user
 - [ ] Module completion
