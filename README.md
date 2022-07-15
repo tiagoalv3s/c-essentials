@@ -44,10 +44,10 @@ Basic data types, operations, and flow control (decision-making statements)
 - [x] 💻 LABs: Conditional and conditional executions
 - [x] Formatted input/output
 - [x] 💻 LABs: Printing data
-- [ ] 💻 LABs: Getting data from de user
-- [ ] Module completion
-- [ ] 🔺Quiz
-- [ ] 🔺Test
+- [x] 💻 LABs: Getting data from de user
+- [x] Module completion
+- [x] 🔺Quiz
+- [x] 🔺Test
 
 ### Module 3
 Flow control (loops), int and float types, typecasting, and computer logic
