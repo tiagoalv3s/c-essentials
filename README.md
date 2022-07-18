@@ -51,9 +51,9 @@ Basic data types, operations, and flow control (decision-making statements)
 
 ### Module 3
 Flow control (loops), int and float types, typecasting, and computer logic
-- [ ] The if-else statement
-- [ ] 💻 LAB: The conditional statement - more conditional
-- [ ] More data types
+- [x] The if-else statement
+- [x] 💻 LAB: The conditional statement - more conditional
+- [x] More data types
 - [ ] 💻 LAB: Big numbers
 - [ ] Conversions
 - [ ] 💻 LAB: Type conversions
