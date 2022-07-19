@@ -54,7 +54,7 @@ Flow control (loops), int and float types, typecasting, and computer logic
 - [x] The if-else statement
 - [x] 💻 LAB: The conditional statement - more conditional
 - [x] More data types
-- [ ] 💻 LAB: Big numbers
+- [x] 💻 LAB: Big numbers
 - [ ] Conversions
 - [ ] 💻 LAB: Type conversions
 - [ ] Loops
